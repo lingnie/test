@@ -14,7 +14,7 @@
 <td><code>test get weighted sum</code></td>
 <td><code>unit</code></td>
 <td>Tests the calculation of the weighted score calculation for a job with various inputs</td>
-<td>- Create a JobOption object and initialize with valid values. <br>- Verify that the calculated value for getWeightedSum is correct based on JobOption attributes. <br><a href="../JobCompare6300\app\src\test\java\edu\gatech\seclass\jobcompare6300\test_get_weighted_sum.java">Link to automated code</a></td>
+<td>- Create a JobOption object and initialize with valid values. <br>- Verify that the calculated value for getWeightedSum is correct based on JobOption attributes. <br><a href="./main.txt">Link to automated code</a></td>
 <td>The weighted sum should be calculated correctly for each set of inputs.</td>
 <td>Values calculated by JobOption for weighted sum are accurate.</td>
 </tr>
